@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Randall Betts / Self Portfolio"
+title                    : "Randall Betts / Portfolio"
 title_separator          : "-"
 name                     : &name "Randall D. Betts"
-description              : &description "personal description"
+description              : &description "Computer Science Student at Samford University"
 url                      : https://afraiddocument.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Randall D. Betts"
   pronouns         : # example: "she/her"  
-  bio              : "Computer Science Student"
+  bio              : "Computer Science Student at Samford University, focused on web development and machine learning"
   location         : "Homewood AL"
   employer         : "Samford University"
   uri              : # URL
@@ -34,12 +34,12 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -62,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/randall-betts-1374782b0/" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
