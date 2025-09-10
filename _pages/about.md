@@ -26,6 +26,8 @@ I’ve built a strong foundation in **computer science and cybersecurity** throu
 
 I thrive in **collaborative environments** where teamwork is essential to success. I enjoy the process of coming together with others to design algorithms, build functions, manage scheduling, and tackle complex problems. I value adaptability, clear communication, giving and receiving feedback, and understanding each team member’s role and strengths. I’m committed to being reliable and managing my time effectively while staying curious and digging deeper into challenges when needed.
 
+When I’m not at my computer, you’ll likely find me **exercising, practicing dance, or roller skating with friends** — activities that keep me active, energized, and connected.
+
 ### **Languages & Tools**
 - Python, Java, JavaScript, TypeScript, C#, C++, SQL, HTML  
 - React Native, Node.js  
