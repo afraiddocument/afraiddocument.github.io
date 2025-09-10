@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm [Your Name], a Computer Science student at **Samford University**. I’m passionate about programming, exploring new technologies, and building practical software solutions. This site is my personal portfolio, showcasing my skills, academic achievements, and areas of tech that excite me.  
+Hi! I'm Randall Betts, a Computer Science student at **Samford University**. I’m passionate about programming, exploring new technologies, and building practical software solutions. This site is my personal portfolio, showcasing my skills, academic achievements, and areas of tech that excite me.  
 
 ## About Me
 I’ve had the chance to explore a wide range of programming languages and technologies:  
@@ -44,7 +44,5 @@ While I’m just starting my project portfolio, I’ve worked extensively in lab
 
 I’m looking forward to applying these skills to **real-world projects and collaborations** soon.  
 
-## Get in Touch
-I enjoy connecting with fellow developers, students, and tech enthusiasts. You can reach me via [email / LinkedIn / GitHub link].  
 
 ---
