@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-# Hi, I’m [Your Name] 👋
+# Hi, I’m Randall Betts 
 I’m a **Computer Science student at Samford University** with experience across multiple programming languages, databases, and cybersecurity fundamentals. I enjoy solving problems with code, learning new technologies, and preparing for a career in software development and security.  
 
 ---
 
-## 📌 Quick Navigation
+## Quick Navigation
 - [About Me](#about-me)
 - [GitHub Projects](#github-projects)
 - [Professional Bio](#professional-bio)
@@ -21,14 +21,14 @@ I’m a **Computer Science student at Samford University** with experience acros
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 I’ve built a strong foundation in **computer science and cybersecurity** through coursework and hands-on labs.  
 
 ### **Languages & Tools**
 - Python, Java, JavaScript, TypeScript, C#, C++, SQL, HTML  
 - React Native, Node.js  
 - PostgreSQL, Git, GitHub  
-- VS Code  
+- VSCode  
 
 ### **Coursework & Grades**
 - Intro to Computer Science – A  
@@ -45,7 +45,7 @@ I’ve built a strong foundation in **computer science and cybersecurity** throu
 
 ---
 
-## 📂 GitHub Projects
+## GitHub Projects
 Here are placeholder repositories (to be replaced with your own):  
 
 - **Repo 1**  
@@ -65,22 +65,12 @@ Here are placeholder repositories (to be replaced with your own):
 
 ---
 
-## 👔 Professional Bio
-I am working toward a career in **software development and cybersecurity**. My academic background gives me experience in both **programming and systems security**, making me adaptable for roles in full-stack development, database management, or cybersecurity analysis.  
-
-🔗 [Connect with me on LinkedIn](https://linkedin.com/in/your-link-here)  
+## Professional Bio
+I am working toward a career in **software development and cybersecurity**. My academic background gives me experience in both **programming and systems security**, making me adaptable for roles in full-stack development, database management, or cybersecurity analysis.    
 
 ---
 
-## 📄 Resume
+## Resume
 📥 [Download My Resume (PDF)](/files/resume.pdf)  
-
----
-
-## 📬 Contact
-- **Email:** yourname@samford.edu  
-- **LinkedIn:** [linkedin.com/in/your-link-here](https://linkedin.com/in/your-link-here)  
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
-- *(Optional)* Socials: Twitter / Instagram  
 
 ---
