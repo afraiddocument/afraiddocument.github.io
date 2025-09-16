@@ -1,20 +1,24 @@
 ---
 permalink: /
-title: "Welcome to My Portfolio"
+title: "Randall Betts | Computer Science Portfolio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Hi, I’m Randall Betts 
-I’m a **Computer Science student at Samford University** with experience across multiple programming languages, databases, and cybersecurity fundamentals. I enjoy solving problems with code, learning new technologies, and preparing for a career in software development and security.  
+# Hi, I’m Randall Betts 👋
+I’m a **Computer Science student at Samford University** (Class of 2026) with a passion for **software development, cybersecurity, and solving real-world problems with code**.  
+
+I’ve worked on full-stack projects, mobile app development, and system-level Java applications, and I thrive in collaborative environments where adaptability, problem-solving, and clear communication matter.  
+
+When I’m not coding, I enjoy **exercising, practicing dance, and roller skating with friends**.  
 
 ---
 
-## Quick Navigation
+# 📌 Quick Navigation
 - [About Me](#about-me)
-- [GitHub Projects](#github-projects)
+- [Projects](#projects)
 - [Professional Bio](#professional-bio)
 - [Resume](#resume)
 - [Contact](#contact)
@@ -22,32 +26,17 @@ I’m a **Computer Science student at Samford University** with experience acros
 ---
 
 ## About Me
-I’ve built a strong foundation in **computer science and cybersecurity** through coursework and hands-on labs.  
-
-I thrive in **collaborative environments** where teamwork is essential to success. I enjoy the process of coming together with others to design algorithms, build functions, manage scheduling, and tackle complex problems. I value adaptability, clear communication, giving and receiving feedback, and understanding each team member’s role and strengths. I’m committed to being reliable and managing my time effectively while staying curious and digging deeper into challenges when needed.
-
-When I’m not at my computer, you’ll likely find me **exercising, practicing dance, or roller skating with friends** — activities that keep me active, energized, and connected.
+-  **Degree:** B.S. in Computer Science, Samford University (Expected May 2026)  
+-  **GPA:** 3.37, Dean’s List 2023–2026  
+-  Interests: Full-stack development, mobile apps, cloud databases, and cybersecurity.  
+-  Collaboration: Experienced in **team-based projects** with GitHub workflows, agile collaboration, and UI design.  
 
 ### **Languages & Tools**
-- Python, Java, JavaScript, TypeScript, C#, C++, SQL, HTML  
-- React Native, Node.js  
-- PostgreSQL, MongoDB, NoSQL  
-- Docker, Virtual Machines  
-- Git, GitHub  
-- VSCode  
-
-### **Coursework & Grades**
-- Intro to Computer Science – A  
-- Intro to Programming I & II – A  
-- Discrete Structures – A  
-- Computer Architecture – A  
-- Advanced Programming Concepts – A  
-- Databases & Information Management – A  
-- Principles of Programming Languages – A  
-- Operating Systems – A  
-- Cybersecurity GRC – A  
-- Cybersecurity Operations – A  
-- *Currently taking: Introduction to Cybersecurity and Software Development*  
+- **Languages:** Python, Java, JavaScript, TypeScript, React Native, C#, C++, SQL, HTML  
+- **Databases:** PostgreSQL, MongoDB, NoSQL  
+- **Tools:** Node.js, Docker, Git/GitHub, AWS, Virtual Machines  
+- **Platforms:** Windows, MacOS, Linux  
+- **IDE:** VS Code, Android Studio  
 
 ---
 
@@ -71,14 +60,45 @@ Here are placeholder repositories (to be replaced with your own):
 
 ---
 
+##  Projects
+
+### Alabama Baptist Disaster Relief Inventory App *(In Development, Aug 2025 – Current)*
+**Role:** Software Developer, UI Designer, Full-Stack Developer  
+- Building a **React Native mobile app** with a Firebase backend to manage disaster relief inventory and meal distribution.  
+- Designed features to track supplies, calculate meal capacity, and provide **real-time updates** for volunteer teams.  
+- Collaborating with teammates to create a scalable, user-friendly system supporting nonprofit disaster relief operations.  
+- Strengthening skills in **mobile development, cloud data, and full-stack engineering**.  
+
+---
+
+### Cross-Platform Camera Capture Project *(Nov 2024 – Dec 2024)*
+**Role:** Software Developer  
+- Created a **Java/Android application** to activate webcams, capture photos, and upload files to a shared folder.  
+- Implemented cross-platform compatibility across Windows, MacOS, and Android.  
+- Gained hands-on experience in **Java, Android Studio, GitHub workflows, and device I/O**.  
+
+---
+
+### DegreeWorks Replica *(Feb 2025 – Mar 2025)*
+**Role:** Software Developer  
+- Developed a **Java-based replica** of a university course registration system with login functionality and role-specific UIs.  
+- Built features for student enrollment, faculty course creation, and admin management with role-based access control.  
+- Practiced **object-oriented design, authentication, and enterprise-style system architecture**.  
+
+---
+
 ## Professional Bio
-I am working toward a career in **software development and cybersecurity**. My academic background gives me experience in both **programming and systems security**, making me adaptable for roles in full-stack development, database management, or cybersecurity analysis.    
+I am pursuing a career in **software development and cybersecurity**, with a strong academic background and hands-on project experience in both domains.  
+- Strong foundation in **software engineering, data management, and cybersecurity**.  
+- Team collaboration, GitHub workflows, and clear communication.  
+- Adaptability and curiosity, with a drive to dig deep into technical challenges.  
+- A balance of **technical and people skills** from working on collaborative projects that impact communities.  
 
-I particularly enjoy team-based projects where collaboration is essential. I bring strong skills in communication, time management, problem solving, and adaptability. I believe in understanding each team member’s role, being dependable, giving and receiving constructive feedback, and staying curious in order to dig deeper into technical challenges.
+
+---
+
+## 📄 Resume
+ [Download My Resume (PDF)](/files/RandallBettsComputerScienceResume.pdf)  
 
 ---
 
-## Resume
-📥 [Download My Resume (PDF)](/files/RandallBettsComputerScienceResume.pdf)  
-
----
