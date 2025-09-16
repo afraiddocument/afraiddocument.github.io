@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Randall Betts | Computer Science Portfolio"
+title: ""Welcome to My Portfolio""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Hi, I’m Randall Betts 👋
+# Hi, I’m Randall Betts 
 I’m a **Computer Science student at Samford University** (Class of 2026) with a passion for **software development, cybersecurity, and solving real-world problems with code**.  
 
 I’ve worked on full-stack projects, mobile app development, and system-level Java applications, and I thrive in collaborative environments where adaptability, problem-solving, and clear communication matter.  
@@ -16,7 +16,7 @@ When I’m not coding, I enjoy **exercising, practicing dance, and roller skatin
 
 ---
 
-# 📌 Quick Navigation
+#  Quick Navigation
 - [About Me](#about-me)
 - [Projects](#projects)
 - [Professional Bio](#professional-bio)
@@ -97,7 +97,7 @@ I am pursuing a career in **software development and cybersecurity**, with a str
 
 ---
 
-## 📄 Resume
+##  Resume
  [Download My Resume (PDF)](/files/RandallBettsComputerScienceResume.pdf)  
 
 ---
