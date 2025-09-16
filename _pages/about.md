@@ -16,7 +16,7 @@ When I’m not coding, I enjoy **exercising, practicing dance, and roller skatin
 
 ---
 
-#  Quick Navigation
+###  Quick Navigation
 - [About Me](#about-me)
 - [Projects](#projects)
 - [Professional Bio](#professional-bio)
