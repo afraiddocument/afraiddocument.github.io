@@ -79,6 +79,6 @@ I particularly enjoy team-based projects where collaboration is essential. I bri
 ---
 
 ## Resume
-📥 [Download My Resume (PDF)](/files/resume.pdf)  
+📥 [Download My Resume (PDF)](/files/RandallBettsComputerScienceResume.pdf)  
 
 ---
