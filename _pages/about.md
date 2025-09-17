@@ -49,7 +49,7 @@ Below are a few projects I’ve worked on in my free time:
 
 - **Fitness-App**  
   *Description:* A personal fitness application I’m developing to support daily workouts and progress tracking.
-  *Technologies:* Java, Node.js 
+  *Technologies:* Java, Node.js  
   [View on GitHub](https://github.com/afraiddocument/Fitness-App)
 
 - **Weather-App**  
