@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to My Portfolio"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -21,7 +21,6 @@ When I’m not coding, I enjoy **exercising, practicing dance, and roller skatin
 - [Projects](#projects)
 - [Professional Bio](#professional-bio)
 - [Resume](#resume)
-- [Contact](#contact)
 
 ---
 
