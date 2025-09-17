@@ -40,22 +40,22 @@ When I’m not coding, I enjoy **exercising, practicing dance, and roller skatin
 ---
 
 ## GitHub Projects
-Here are placeholder repositories (to be replaced with your own):  
+Below are a few projects I’ve worked on in my free time:
 
-- **Repo 1**  
-  *Description:* Placeholder for a future project.  
+- **Address-ISP-Identifier-App**  
+  *Description:* An application that allows users to check which Internet Service Providers (ISPs) are available at specific addresses.
   *Technologies:* Python, SQL  
-  [View on GitHub](https://github.com/)  
+  [View on GitHub](https://github.com/afraiddocument/Address-ISP-Identifier-App)
 
-- **Repo 2**  
-  *Description:* Placeholder for a future project.  
-  *Technologies:* Java, Node.js  
-  [View on GitHub](https://github.com/)  
+- **Fitness-App**  
+  *Description:* A personal fitness application I’m developing to support daily workouts and progress tracking.
+  *Technologies:* Java, Node.js 
+  [View on GitHub](https://github.com/afraiddocument/Fitness-App)
 
-- **Repo 3**  
-  *Description:* Placeholder for a future project.  
+- **Weather-App**  
+  *Description:* A mobile application designed for use in my Geography course, providing weather updates and data visualization.
   *Technologies:* React Native, PostgreSQL  
-  [View on GitHub](https://github.com/)  
+  [View on GitHub](https://github.com/afraiddocument/Weather-App)
 
 ---
 
